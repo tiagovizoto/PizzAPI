@@ -1,15 +1,11 @@
-![Join the chat at https://gitter.im/collate-for-me/Lobby][gitter] ![Dependencies][dependencies] ![Build][build] ![Coverage][coverage] ![Contributors][contributors] ![LICENCE][licence]
+![Dependencies][dependencies] ![Build][build] ![Coverage][coverage] ![Contributors][contributors] ![LICENCE][licence]
+<h1 align="center" style="border-bottom: none;">PizzAPI</h1> 
+<h3 align="center">Project Tagline</h3>
 
-<h1 align="center" style="border-bottom: none;">collate-for-me 👩‍💻👨‍💻</h1> 
-<h3 align="center">Content Consumption Simplified</h3>
-
-<p align="center">
- <img src="https://media.giphy.com/media/3oKIPqXWNJswXf1InS/giphy.gif" width="500" height="400"/>
-</p>
-
-`collate-for-me` is a platform where humans _(and bots)_  from all branches of software development join hands to build a dashboard of your  choice, served on your computer and is not influenced by the _marketting algorithms_ of big tech corporates. 
+`PizzAPI` is a platform where humans _(and bots)_  from all branches of software development join hands to build a dashboard of your  choice, served on your computer and is not influenced by the _marketting algorithms_ of big tech corporates. 
 
 ### Application Goals
+- Write some goals 
 - Efficient content consumption of www
 - Content is based on user's choice and is not manipulated for profits
 - No brainer installation and workflows
@@ -47,32 +43,30 @@ We value supportive and constructive dialogue in the pursuit of great code and c
 
 ### Prerequisites
 
-`collate-for-me` relies on several external packages:
+`PizzAPI` relies on several external packages:
 
 - [Git](https://git-scm.com)
 - [Node.js](https://nodejs.org/en/download/) 
 
 ### Installation
-Clone and run this repository
-
 ```bash
 # Clone this repository
-git clone https://github.com/mehtankush/collate-for-me.git
+git clone https://github.com/mehtankush/PizzAPI.git
 
 # Go into the repository
-cd collate-for-me
+cd PizzAPI
 
 # Install dependencies & Run the app
 npm install && npm start
-
+```
+### Starting the application
+```bash
 # Run the node server
 node server.js
 
 # Run the electron app (in a new teminal window)
 npm start
 ```
-
-### Starting the application
 
 ## Product Roadmap
 
@@ -90,7 +84,7 @@ Contributors will move issues along the project board as they progress.
 
 ## Contributors
 
-| [<img src="https://github.com/mehtankush.png" width="100px;"/><br /><sub><b>Ankush Mehta</b></sub>][ankushmehta]<br /> 💻 📖 | [<img src="https://github.com/chandakmayank.png" width="100px;"/><br /><sub><b>Mayank Chandak</b></sub>][chandakmayank]<br /> 💻 🔧 📦 | [<img src="https://github.com/vibhanarayan.png" width="100px;"/><br /><sub><b>Vibha Narayan</b></sub>][vibhanarayan]<br /> 💻 📖 | [<img src="https://github.com/SakshyBhardwaj.png" width="100px;"/><br /><sub><b>Sakshi Bhardwaj</b></sub>][sakshybhardwaj]<br /> 🎨 📋 |
+| [<img src="https://github.com/mehtankush.png" width="100px;"/><br /><sub><b>Ankush Mehta</b></sub>][ankushmehta]<br /> 💻 📖 | [<img src="https://github.com/mehtankush.png" width="100px;"/><br /><sub><b>Mayank Chandak</b></sub>][chandakmayank]<br /> 💻 🔧 📦 | [<img src="https://github.com/mehtankush.png" width="100px;"/><br /><sub><b>Vibha Narayan</b></sub>][vibhanarayan]<br /> 💻 📖 | [<img src="https://github.com/mehtankush.png" width="100px;"/><br /><sub><b>Sakshi Bhardwaj</b></sub>][sakshybhardwaj]<br /> 🎨 📋 |
 | :---: | :---: | :---: | :---: | 
 
 
@@ -115,13 +109,13 @@ Contributors will move issues along the project board as they progress.
 <!-- Links -->
 [preview]: https://asciinema.org/a/41811.png
 [preview-vid]: (https://asciinema.org/a/41811?autoplay=1) 
-[projects]: https://github.com/mehtankush/collate-for-me/projects
+[projects]: https://github.com/mehtankush/PizzAPI/projects
 
 <!-- Contributors -->
 [ankushmehta]: https://ankushmehta.com
-[chandakmayank]: https://github.com/chandakmayank
-[vibhanarayan]: https://github.com/vibhanarayan
-[sakshybhardwaj]: https://github.com/SakshyBhardwaj
+[chandakmayank]: https://github.com/mehtankush
+[vibhanarayan]: https://github.com/mehtankush
+[sakshybhardwaj]: https://github.com/mehtankush
 
 <!-- Licence -->
 [gplv3]: https://www.gnu.org/licenses/rms-why-gplv3.html

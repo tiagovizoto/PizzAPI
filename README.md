@@ -32,8 +32,6 @@ We value supportive and constructive dialogue in the pursuit of great code and c
 * [Codebase](#)
   * [The stack](#)
   * [Engineering standards](#)
-    * [Style guide](#)
-    * [Husky hooks](#)
 * [Additional docs](#)
 * [Contributors](#)
 * [License](#)
@@ -120,3 +118,4 @@ Contributors will move issues along the project board as they progress.
 <!-- Licence -->
 [gplv3]: https://www.gnu.org/licenses/rms-why-gplv3.html
 [licence-file]: https://github.com/mehtankush/collate-for-me/blob/master/LICENSE
+
